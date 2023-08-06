@@ -16,7 +16,7 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 - 🔭 I’m currently working as a freelance web developer & photographer.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: sirajum.qazi@gmail.com.
+- 📫 Best way to reach me: sirajum.qazi@gmail.com.
 - ⚡ Fun fact: I play games and love to do street photography.
 
 #### Top Technologies
@@ -25,21 +25,20 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![SASS Badge](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) [![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 
-<br />
 #### Currently Learning
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-Mongo%20DB-FF9900?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=FF9900)](#) [![Express Badge](https://img.shields.io/badge/-Express-65C179?style=for-the-badge&labelColor=black&logo=express&logoColor=65C179)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)](#)
 
 <br />
 
-#### Bizness
+#### Contact Information
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](https://github.com/SerjQazi/SerjQazi/blob/master/resume/serjqaz-resume.pdf)
+- :email: sirajum.qazi@gmail.com
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SerjQazi.SerjQazi)
 
 <details>
 <summary>
@@ -48,33 +47,24 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+I love learning new technologies and sharing knowledge with other developers. Most of my spare time is spent researching new technologies for web development or photography.
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+React          15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
+JavaScript     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+SASS           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Tailwind       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+HTML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![SerjQazi's github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
