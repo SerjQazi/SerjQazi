@@ -36,10 +36,6 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 - :paperclip: [My Resume/CV](https://github.com/SerjQazi/SerjQazi/blob/master/resume/serjqaz-resume.pdf)
 - :email: sirajum.qazi@gmail.com
 
-#### Profile Visits
-
-![Profile views](https://gpvc.arturio.dev/SerjQazi)  
-
 <details>
 <summary>
   More stuff about me
