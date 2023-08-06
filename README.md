@@ -1,4 +1,4 @@
-## Hi I'm Serj <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Hi I'm Serj <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 🚀 Check out my New Portfolio ☁️ [serjqazi.com](https://serjqazi.com)
 
@@ -12,14 +12,14 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 
 
-### What I currently Do
+## What I currently Do
 
 - 🔭 I’m currently working as a freelance web developer & photographer.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Best way to reach me: sirajum.qazi@gmail.com.
 - ⚡ Fun fact: I play games and love to do street photography.
 
-#### Top Technologies
+### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -61,7 +61,7 @@ HTML           2 mins          ░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs) 
+![github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SerjQazi&theme=tokyonight&hide=contribs,prs)  
 
 
