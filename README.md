@@ -29,8 +29,6 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-Mongo%20DB-FF9900?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=FF9900)](#) [![Express Badge](https://img.shields.io/badge/-Express-65C179?style=for-the-badge&labelColor=black&logo=express&logoColor=65C179)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)](#)
 
-<br />
-
 #### Contact Information
 
 - :paperclip: [My Resume/CV](https://github.com/SerjQazi/SerjQazi/blob/master/resume/serjqaz-resume.pdf)
