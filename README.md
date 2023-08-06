@@ -59,8 +59,8 @@ HTML           2 mins          ░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs&card_width=430) 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SerjQazi&theme=tokyonight&hide=contribs,prs&card_width=430)  
+![github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs&card_width=425) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SerjQazi&theme=tokyonight&hide=contribs,prs&card_width=425)  
 
 
 </details>
