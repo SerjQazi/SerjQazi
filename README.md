@@ -38,7 +38,7 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SerjQazi.SerjQazi)
+![Profile views](https://gpvc.arturio.dev/SerjQazi)  
 
 <details>
 <summary>
@@ -65,6 +65,6 @@ HTML           2 mins          ░░░░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![SerjQazi's github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs)
+![github stats](https://github-readme-stats.vercel.app/api?username=SerjQazi&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
