@@ -41,18 +41,54 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 
 <br >
 
-I love learning new technologies and sharing knowledge with other developers. Most of my spare time is spent researching new technologies for web development or photography.
+## Experiences
+### Intermediate Frontend Developer
+#### BMO Financial Group
+
+• Built accessible & responsive web pages on BMO.com & BMOHarris.com
+• Developed new React components and refactored existing components
+• Maintained a consistent design language using utility-first CSS frameworks, similar to Tailwind
+• Prepared deployment artifacts for QA, preview and production environments
+• deployed artifacts using Python scripts & OpenText's WEM
+• Worked in an agile environment using Kanban methodologies
+
+Tech Stack :
+• React • JavaScript • HTML5 • Tailwind • RESTful API • Bitbucket
+• Figma • Agile Methodologies (Rally & Confluence)
+
+
+### Frontend Developer
+#### Novela Neurotechnologies Inc.
+
+• Built components with React and JavaScript to integrate API data in an intuitive UX design
+• Refactored existing web application to be fully mobile compatible
+• Designed a new application using Figma
+• Developed the new application using React, Material UI and Ant Design
+• Developed a new application from scratch using React.js and libraries such as MaterialUI and Ant Design.
+• Created API schemas for new APIs
+
+Tech Stack :
+• React • JavaScript • HTML5 • CSS3 • SASS • Material UI • Ant Design
+• RESTful API • Firebase • GitHub • Figma • Jira • Confluence
+
+
+## Education
+### Frontend Development
+#### Juno College of Technology 2020 - 2021
+Tech Stack :
+• React • JavaScript ES6+ • HTML5 • CSS3 • SASS • Responsive Design • RESTful API • Firebase • GitHub
+
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
 
 ```text
-React          15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-JavaScript     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-SASS           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Tailwind       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-HTML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+React       15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
+JavaScript  1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+SASS        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Tailwind    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+HTML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
