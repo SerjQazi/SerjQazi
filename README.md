@@ -45,31 +45,31 @@ I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time c
 ### Intermediate Frontend Developer
 #### BMO Financial Group
 
-• Built accessible & responsive web pages on BMO.com & BMOHarris.com
-• Developed new React components and refactored existing components
-• Maintained a consistent design language using utility-first CSS frameworks, similar to Tailwind
-• Prepared deployment artifacts for QA, preview and production environments
-• deployed artifacts using Python scripts & OpenText's WEM
-• Worked in an agile environment using Kanban methodologies
+• Built accessible & responsive web pages on BMO.com & BMOHarris.com <br />
+• Developed new React components and refactored existing components <br />
+• Maintained a consistent design language using utility-first CSS frameworks, similar to Tailwind <br />
+• Prepared deployment artifacts for QA, preview and production environments <br />
+• deployed artifacts using Python scripts & OpenText's WEM <br />
+• Worked in an agile environment using Kanban methodologies <br />
 
-Tech Stack :
-• React • JavaScript • HTML5 • Tailwind • RESTful API • Bitbucket
-• Figma • Agile Methodologies (Rally & Confluence)
+Tech Stack :<br />
+• React • JavaScript • HTML5 • Tailwind • RESTful API • Bitbucket <br />
+• Figma • Agile Methodologies (Rally & Confluence)<br />
 
 
 ### Frontend Developer
 #### Novela Neurotechnologies Inc.
 
-• Built components with React and JavaScript to integrate API data in an intuitive UX design
-• Refactored existing web application to be fully mobile compatible
-• Designed a new application using Figma
-• Developed the new application using React, Material UI and Ant Design
-• Developed a new application from scratch using React.js and libraries such as MaterialUI and Ant Design.
-• Created API schemas for new APIs
+• Built components with React and JavaScript to integrate API data in an intuitive UX design<br />
+• Refactored existing web application to be fully mobile compatible<br />
+• Designed a new application using Figma<br />
+• Developed the new application using React, Material UI and Ant Design<br />
+• Developed a new application from scratch using React.js and libraries such as MaterialUI and Ant Design.<br />
+• Created API schemas for new APIs<br />
 
-Tech Stack :
-• React • JavaScript • HTML5 • CSS3 • SASS • Material UI • Ant Design
-• RESTful API • Firebase • GitHub • Figma • Jira • Confluence
+Tech Stack :<br />
+• React • JavaScript • HTML5 • CSS3 • SASS • Material UI • Ant Design <br />
+• RESTful API • Firebase • GitHub • Figma • Jira • Confluence<br />
 
 
 ## Education
