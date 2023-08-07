@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio ☁️ [serjqazi.com](https://serjqazi.com)
 
-I'm Serj Qazi a Frontend Web Developer & Photographer. I Spend most of my time coding outstanding projects or going out to take photos.
+I'm Serj Qazi a Frontend Developer with a passion for Photography. I Spend most of my time coding outstanding projects or going out to take photos.
 
 :mailbox: Reach me out!
 
