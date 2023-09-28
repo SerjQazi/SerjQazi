@@ -2,7 +2,7 @@
 
 🚀 Check out my new portfolio ☁️ [serjqazi.com](https://serjqazi.com)
 
-I'm Serj Qazi a Frontend Developer with a passion for Photography. I Spend most of my time coding outstanding projects or going out to take photos.
+Detail-oriented Full Stack Developer with over 2 years of experience working with HTML, CSS, Javascript, Query, and TypeScript. Highly adept at both independent and collaborative projects, with an emphasis on landing page and website development.
 
 :mailbox: Reach me out!
 
@@ -14,7 +14,7 @@ I'm Serj Qazi a Frontend Developer with a passion for Photography. I Spend most 
 
 ## What I currently Do
 
-- 🔭 I’m currently working as a freelance web developer & photographer.
+- 🔭 I’m currently working as a freelance Full Stack Developer.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Best way to reach me: sirajum.qazi@gmail.com.
 - ⚡ Fun fact: I play games and love to do street photography.
